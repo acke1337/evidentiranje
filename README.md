@@ -15,6 +15,7 @@ Nema nikakav "backdoor", sve se čuva na vašem računaru.<br>
 Database=Mesto vase baze podataka (npr. E:\Evidencija\bin\data\evidencija.db) 
 User_Name=root LockingMode=Normal 
 DriverID=SQLite`
+5. Korisnicko ime i lozinka su `admin`
 # Napomena
 Trentno je softver ovako urađen, u sledećem update vam neće trebati deo iz "Instalacije 3. i 4."
 # Slike softvera
