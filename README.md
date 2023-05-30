@@ -16,7 +16,7 @@ Database=Mesto vase baze podataka (npr. E:\Evidencija\bin\data\evidencija.db)
 User_Name=root LockingMode=Normal 
 DriverID=SQLite`
 # Napomena
-Trentno je softver ovako urađen, u sledećem update vam neće trebati deo iz "Instalacije 3."
+Trentno je softver ovako urađen, u sledećem update vam neće trebati deo iz "Instalacije 3. i 4."
 # Slike softvera
 
 ![prijava_prozor](https://github.com/acke1337/evidentiranje/assets/121731494/86cce97c-a1c6-4d3e-a413-e11da09c68ec) <br>
