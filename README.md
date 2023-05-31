@@ -10,7 +10,7 @@ Nema nikakav "backdoor", sve se čuva na vašem računaru.<br>
 # Instalacija
 1. Preuzmite softver odavde
 2. Postavite ga na željeno mesto
-3. Zatim u `C:\Users\Public\Public Documents` nalepite folder `Embarcadero` ( ako nemate RAD Studio ) a ako imate, dodajte sledeće u `FDConnections.ini` 
+3. Zatim iz foldera `Embarcadero/Studio/FireDAC` izvadite `FDConnections.ini` i nalepite ga u folder gde vam je `Evidentiranje.exe` i podesite lokaciju baze podataka
 4. `[evidencija_konekcija]
 Database=Mesto vase baze podataka (npr. E:\Evidencija\bin\data\evidencija.db) 
 User_Name=root LockingMode=Normal 
